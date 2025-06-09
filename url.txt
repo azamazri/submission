@@ -1,1 +1,1 @@
-https://<your-streamlit-cloud-url>
+https://submissionazam.streamlit.app/
